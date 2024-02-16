@@ -23,10 +23,3 @@ Hover Effects: The Men category tab introduces a subtle hover effect, enriching 
 GitHub Readme Integration: Thorough documentation facilitates easy understanding, positioning the project as an ideal candidate for GitHub. The Readme file provides an overview of the project structure, key features, and instructions for seamless replication or further development.
 
 
-Getting Started:
-
-Clone the repository.
-Open the HTML file in your preferred browser.
-Explore product categories by clicking on respective tabs.
-Experience responsive design across various devices.
-Understand code structure and styling for potential customization.
